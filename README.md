@@ -1,6 +1,6 @@
 # Clustering-MachineLearning
 
-This project use <strong>k- means k means clustering algorithm</strong> as an image compression algorithm.
+This project use <strong>k-means clustering algorithm</strong> as an image compression algorithm.
 
 ![image](https://user-images.githubusercontent.com/105008868/179601584-eedd0d9f-6768-45d4-b263-a21cdb650400.png)
 
