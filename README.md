@@ -1,12 +1,12 @@
 # Clustering-MachineLearning
 
-This project use clustring algorithm <strong>k- means</strong> as an image compression algorithm.
+This project use <strong>k- means k means clustering algorithm</strong> as an image compression algorithm.
 
 ![image](https://user-images.githubusercontent.com/105008868/179601584-eedd0d9f-6768-45d4-b263-a21cdb650400.png)
 
 We use the image above and transform her to be represented with a small subset of colors.
 
-For this process we perform unsupervised learning using clustering algorithms: K means and K means++
+For this process we perform unsupervised learning using K means and K means++ clustering algorithms 
 
 
 
